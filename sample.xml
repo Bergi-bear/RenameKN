@@ -1,0 +1,889 @@
+<ns0:KVZU xmlns:ns0="urn://x-artefacts-rosreestr-ru/outgoing/kvzu/7.0.1" xmlns:ns1="urn://x-artefacts-rosreestr-ru/commons/complex-types/address-output/4.0.1" xmlns:ns2="urn://x-artefacts-rosreestr-ru/commons/complex-types/document-output/4.0.1" xmlns:ns3="urn://x-artefacts-rosreestr-ru/commons/complex-types/entity-spatial/5.0.1" xmlns:ns4="urn://x-artefacts-rosreestr-ru/commons/complex-types/certification-doc/1.0">
+<ns0:Parcels ReceivName="AAAAAAAAAAAAAAAA">
+<ns0:Parcel CadastralNumber="61:54:0000000:7644" State="06" DateCreated="2014-05-22">
+<ns0:CadastralBlock>61:54:0000000</ns0:CadastralBlock>
+<ns0:Name>05</ns0:Name>
+<ns0:InnerCadastralNumbers>
+<ns0:CadastralNumber>61:54:0000000:7866</ns0:CadastralNumber>
+<ns0:CadastralNumber>61:54:0000000:7813</ns0:CadastralNumber>
+<ns0:CadastralNumber>61:54:0000000:7781</ns0:CadastralNumber>
+</ns0:InnerCadastralNumbers>
+<ns0:Area>
+<ns0:Area>8904</ns0:Area>
+<ns0:Unit>055</ns0:Unit>
+<ns0:Inaccuracy>33</ns0:Inaccuracy>
+</ns0:Area>
+<ns0:Location>
+<ns0:inBounds>2</ns0:inBounds>
+<ns0:Address> <ns1:OKATO>60232501000</ns1:OKATO>
+<ns1:KLADR>61023001000025700</ns1:KLADR>
+<ns1:Region>61</ns1:Region>
+<ns1:District Name="&#1052;&#1080;&#1083;&#1083;&#1077;&#1088;&#1086;&#1074;&#1089;&#1082;&#1080;&#1081;" Type="&#1088;-&#1085;" />
+<ns1:City Name="&#1052;&#1080;&#1083;&#1083;&#1077;&#1088;&#1086;&#1074;&#1086;" Type="&#1075;" />
+<ns1:Street Name="&#1058;&#1072;&#1088;&#1072;&#1089;&#1072; &#1064;&#1077;&#1074;&#1095;&#1077;&#1085;&#1082;&#1086;" Type="&#1091;&#1083;" />
+<ns1:Note>&#1056;&#1086;&#1089;&#1090;&#1086;&#1074;&#1089;&#1082;&#1072;&#1103; &#1086;&#1073;&#1083;&#1072;&#1089;&#1090;&#1100;, &#1088;-&#1085; &#1052;&#1080;&#1083;&#1083;&#1077;&#1088;&#1086;&#1074;&#1089;&#1082;&#1080;&#1081;, &#1075; &#1052;&#1080;&#1083;&#1083;&#1077;&#1088;&#1086;&#1074;&#1086;, &#1091;&#1083; &#1058;&#1072;&#1088;&#1072;&#1089;&#1072; &#1064;&#1077;&#1074;&#1095;&#1077;&#1085;&#1082;&#1086;</ns1:Note>
+</ns0:Address>
+</ns0:Location>
+<ns0:Category>003002000000</ns0:Category>
+<ns0:Utilization Utilization="142003000000" ByDoc="&#1076;&#1083;&#1103; &#1101;&#1082;&#1089;&#1087;&#1083;&#1091;&#1072;&#1090;&#1072;&#1094;&#1080;&#1080; &#1076;&#1086;&#1088;&#1086;&#1075;&#1080; &#1089; &#1090;&#1074;&#1077;&#1088;&#1076;&#1099;&#1084; &#1087;&#1086;&#1082;&#1088;&#1099;&#1090;&#1080;&#1077;&#1084;" />
+<ns0:SubParcels>
+<ns0:SubParcel NumberRecord="1" Full="0" State="06">
+<ns0:Area>
+<ns0:Area>4312</ns0:Area>
+<ns0:Unit>055</ns0:Unit>
+</ns0:Area>
+<ns0:Encumbrance>
+<ns0:Type>022004000000</ns0:Type>
+<ns0:Duration>
+<ns0:Started>2015-05-18</ns0:Started>
+</ns0:Duration>
+<ns0:Document>
+<ns2:CodeDocument>558221000000</ns2:CodeDocument>
+<ns2:Name>&#1044;&#1086;&#1075;&#1086;&#1074;&#1086;&#1088; &#1085;&#1072; &#1074;&#1099;&#1087;&#1086;&#1083;&#1085;&#1077;&#1085;&#1080;&#1077; &#1082;&#1086;&#1084;&#1087;&#1083;&#1077;&#1082;&#1089;&#1072; &#1079;&#1077;&#1084;&#1083;&#1077;&#1091;&#1089;&#1090;&#1088;&#1086;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1099;&#1093; &#1088;&#1072;&#1073;&#1086;&#1090; &#1087;&#1086; &#1091;&#1089;&#1090;&#1072;&#1085;&#1086;&#1074;&#1083;&#1077;&#1085;&#1080;&#1102; &#1086;&#1093;&#1088;&#1072;&#1085;&#1085;&#1099;&#1093; &#1079;&#1086;&#1085; &#1086;&#1073;&#1098;&#1077;&#1082;&#1090;&#1086;&#1074; &#1101;&#1083;&#1077;&#1082;&#1090;&#1088;&#1086;&#1089;&#1077;&#1090;&#1077;&#1074;&#1086;&#1075;&#1086; &#1093;&#1086;&#1079;&#1103;&#1081;&#1089;&#1090;&#1074;&#1072;</ns2:Name>
+<ns2:Number>138 &#1070;&#1088;&#1054;</ns2:Number>
+<ns2:Date>2014-07-08</ns2:Date>
+<ns2:IssueOrgan>&#1054;&#1054;&#1054; "&#1043;&#1045;&#1054;-&#1044;&#1054;&#1053;"</ns2:IssueOrgan>
+</ns0:Document>
+</ns0:Encumbrance>
+<ns0:EntitySpatial EntSys="ID1">
+<ns3:SpatialElement>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="1">
+<ns3:Ordinate X="612375.17" Y="2256660.31" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="2">
+<ns3:Ordinate X="612370.29" Y="2256660.94" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="3">
+<ns3:Ordinate X="612355.16" Y="2256661.85" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="4">
+<ns3:Ordinate X="612354.52" Y="2256657.88" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="5">
+<ns3:Ordinate X="612369.85" Y="2256656.97" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="6">
+<ns3:Ordinate X="612374.53" Y="2256656.37" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="1">
+<ns3:Ordinate X="612375.17" Y="2256660.31" OrdNmb="1" />
+</ns3:SpelementUnit>
+</ns3:SpatialElement>
+<ns3:SpatialElement>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="7">
+<ns3:Ordinate X="611825.95" Y="2256753.99" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="8">
+<ns3:Ordinate X="611826.72" Y="2256757.92" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="9">
+<ns3:Ordinate X="611823.32" Y="2256758.49" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="10">
+<ns3:Ordinate X="611820.98" Y="2256758.64" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="11">
+<ns3:Ordinate X="611819.05" Y="2256758.77" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="12">
+<ns3:Ordinate X="611809.79" Y="2256759.38" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="13">
+<ns3:Ordinate X="611806.71" Y="2256759.59" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="14">
+<ns3:Ordinate X="611805.94" Y="2256755.63" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="15">
+<ns3:Ordinate X="611808.39" Y="2256755.47" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="16">
+<ns3:Ordinate X="611817.99" Y="2256754.84" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="17">
+<ns3:Ordinate X="611819.97" Y="2256754.71" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="18">
+<ns3:Ordinate X="611822.77" Y="2256754.52" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="7">
+<ns3:Ordinate X="611825.95" Y="2256753.99" OrdNmb="1" />
+</ns3:SpelementUnit>
+</ns3:SpatialElement>
+<ns3:SpatialElement>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="19">
+<ns3:Ordinate X="611798.03" Y="2256760.16" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="20">
+<ns3:Ordinate X="611797.97" Y="2256760.16" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="21">
+<ns3:Ordinate X="611564.96" Y="2256798.42" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="22">
+<ns3:Ordinate X="611554.38" Y="2256801.83" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="23">
+<ns3:Ordinate X="611549.44" Y="2256802.06" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="24">
+<ns3:Ordinate X="611545.4" Y="2256802.18" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="25">
+<ns3:Ordinate X="611537.31" Y="2256802.42" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="26">
+<ns3:Ordinate X="611478.86" Y="2256813.29" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="27">
+<ns3:Ordinate X="611473.52" Y="2256813.54" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="28">
+<ns3:Ordinate X="611416.96" Y="2256816.24" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="29">
+<ns3:Ordinate X="611440" Y="2256812.45" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="30">
+<ns3:Ordinate X="611451.87" Y="2256810.59" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="31">
+<ns3:Ordinate X="611478.26" Y="2256809.33" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="32">
+<ns3:Ordinate X="611536.73" Y="2256798.46" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="33">
+<ns3:Ordinate X="611544.74" Y="2256798.2" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="34">
+<ns3:Ordinate X="611548.77" Y="2256798.08" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="35">
+<ns3:Ordinate X="611553.42" Y="2256797.94" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="36">
+<ns3:Ordinate X="611563.88" Y="2256794.56" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="37">
+<ns3:Ordinate X="611797.36" Y="2256756.2" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="19">
+<ns3:Ordinate X="611798.03" Y="2256760.16" OrdNmb="1" />
+</ns3:SpelementUnit>
+</ns3:SpatialElement>
+<ns3:SpatialElement>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="38">
+<ns3:Ordinate X="611398.31" Y="2256817.49" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="39">
+<ns3:Ordinate X="611383.36" Y="2256819.58" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="40">
+<ns3:Ordinate X="611378.41" Y="2256820" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="41">
+<ns3:Ordinate X="611378.22" Y="2256816" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="42">
+<ns3:Ordinate X="611382.86" Y="2256815.6" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="43">
+<ns3:Ordinate X="611398.12" Y="2256813.48" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="38">
+<ns3:Ordinate X="611398.31" Y="2256817.49" OrdNmb="1" />
+</ns3:SpelementUnit>
+</ns3:SpatialElement>
+<ns3:SpatialElement>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="44">
+<ns3:Ordinate X="611346.36" Y="2256822.73" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="45">
+<ns3:Ordinate X="611315.41" Y="2256825.37" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="46">
+<ns3:Ordinate X="611266.46" Y="2256826.41" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="47">
+<ns3:Ordinate X="611233.06" Y="2256827.98" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="48">
+<ns3:Ordinate X="611222.89" Y="2256833.23" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="49">
+<ns3:Ordinate X="611203.97" Y="2256839.79" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="50">
+<ns3:Ordinate X="611194.86" Y="2256838.92" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="51">
+<ns3:Ordinate X="611182.16" Y="2256839.88" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="52">
+<ns3:Ordinate X="611166.13" Y="2256843.48" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="53">
+<ns3:Ordinate X="611089.2" Y="2256841.38" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="54">
+<ns3:Ordinate X="610878.99" Y="2256830.38" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="55">
+<ns3:Ordinate X="610874.63" Y="2256830.21" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="56">
+<ns3:Ordinate X="610866.98" Y="2256829.83" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="57">
+<ns3:Ordinate X="610705.06" Y="2256823.35" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="58">
+<ns3:Ordinate X="610689.87" Y="2256823.14" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="59">
+<ns3:Ordinate X="610687.73" Y="2256818.92" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="60">
+<ns3:Ordinate X="610705.17" Y="2256819.12" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="61">
+<ns3:Ordinate X="610818.33" Y="2256823.84" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="62">
+<ns3:Ordinate X="610822.2" Y="2256824" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="63">
+<ns3:Ordinate X="610858.63" Y="2256825.48" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="64">
+<ns3:Ordinate X="610862.63" Y="2256825.65" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="65">
+<ns3:Ordinate X="610867.15" Y="2256825.83" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="66">
+<ns3:Ordinate X="610909.17" Y="2256828.01" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="67">
+<ns3:Ordinate X="610913.29" Y="2256828.23" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="68">
+<ns3:Ordinate X="611089.34" Y="2256837.38" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="69">
+<ns3:Ordinate X="611165.49" Y="2256839.52" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="70">
+<ns3:Ordinate X="611173.12" Y="2256837.81" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="71">
+<ns3:Ordinate X="611191.67" Y="2256838.51" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="72">
+<ns3:Ordinate X="611198.6" Y="2256835.34" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="73">
+<ns3:Ordinate X="611203.1" Y="2256835.85" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="74">
+<ns3:Ordinate X="611207.28" Y="2256834.41" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="75">
+<ns3:Ordinate X="611211.02" Y="2256833.12" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="76">
+<ns3:Ordinate X="611221.19" Y="2256829.62" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="77">
+<ns3:Ordinate X="611231.62" Y="2256824.23" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="78">
+<ns3:Ordinate X="611258.66" Y="2256822.77" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="79">
+<ns3:Ordinate X="611262.67" Y="2256822.58" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="80">
+<ns3:Ordinate X="611266.3" Y="2256822.41" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="81">
+<ns3:Ordinate X="611315.14" Y="2256821.37" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="82">
+<ns3:Ordinate X="611333" Y="2256819.85" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="83">
+<ns3:Ordinate X="611336.87" Y="2256819.52" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="84">
+<ns3:Ordinate X="611346.16" Y="2256818.73" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="44">
+<ns3:Ordinate X="611346.36" Y="2256822.73" OrdNmb="1" />
+</ns3:SpelementUnit>
+</ns3:SpatialElement>
+</ns0:EntitySpatial>
+</ns0:SubParcel>
+<ns0:SubParcel NumberRecord="2" Full="0" State="06">
+<ns0:Area>
+<ns0:Area>80</ns0:Area>
+<ns0:Unit>055</ns0:Unit>
+</ns0:Area>
+<ns0:Encumbrance>
+<ns0:Type>022004000000</ns0:Type>
+<ns0:Duration>
+<ns0:Started>2015-05-18</ns0:Started>
+</ns0:Duration>
+<ns0:Document>
+<ns2:CodeDocument>558221000000</ns2:CodeDocument>
+<ns2:Name>&#1044;&#1086;&#1075;&#1086;&#1074;&#1086;&#1088; &#1085;&#1072; &#1074;&#1099;&#1087;&#1086;&#1083;&#1085;&#1077;&#1085;&#1080;&#1077; &#1082;&#1086;&#1084;&#1087;&#1083;&#1077;&#1082;&#1089;&#1072; &#1079;&#1077;&#1084;&#1083;&#1077;&#1091;&#1089;&#1090;&#1088;&#1086;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1099;&#1093; &#1088;&#1072;&#1073;&#1086;&#1090; &#1087;&#1086; &#1091;&#1089;&#1090;&#1072;&#1085;&#1086;&#1074;&#1083;&#1077;&#1085;&#1080;&#1102; &#1086;&#1093;&#1088;&#1072;&#1085;&#1085;&#1099;&#1093; &#1079;&#1086;&#1085; &#1086;&#1073;&#1098;&#1077;&#1082;&#1090;&#1086;&#1074; &#1101;&#1083;&#1077;&#1082;&#1090;&#1088;&#1086;&#1089;&#1077;&#1090;&#1077;&#1074;&#1086;&#1075;&#1086; &#1093;&#1086;&#1079;&#1103;&#1081;&#1089;&#1090;&#1074;&#1072;</ns2:Name>
+<ns2:Number>138 &#1070;&#1088;&#1054;</ns2:Number>
+<ns2:Date>2014-07-08</ns2:Date>
+<ns2:IssueOrgan>&#1054;&#1054;&#1054; "&#1043;&#1045;&#1054;-&#1044;&#1054;&#1053;"</ns2:IssueOrgan>
+</ns0:Document>
+</ns0:Encumbrance>
+<ns0:EntitySpatial EntSys="ID1">
+<ns3:SpatialElement>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="85">
+<ns3:Ordinate X="610533.05" Y="2256971.5" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="86">
+<ns3:Ordinate X="610536.68" Y="2256973.19" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="87">
+<ns3:Ordinate X="610535.65" Y="2256975.55" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="88">
+<ns3:Ordinate X="610533.64" Y="2256980.21" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="89">
+<ns3:Ordinate X="610529.79" Y="2256992.04" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="90">
+<ns3:Ordinate X="610526.14" Y="2256990.34" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="91">
+<ns3:Ordinate X="610529.92" Y="2256978.74" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="92">
+<ns3:Ordinate X="610530.96" Y="2256976.31" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="93">
+<ns3:Ordinate X="610532.57" Y="2256972.59" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="85">
+<ns3:Ordinate X="610533.05" Y="2256971.5" OrdNmb="1" />
+</ns3:SpelementUnit>
+</ns3:SpatialElement>
+</ns0:EntitySpatial>
+</ns0:SubParcel>
+<ns0:SubParcel NumberRecord="3" Full="0" State="06">
+<ns0:Area>
+<ns0:Area>1053</ns0:Area>
+<ns0:Unit>055</ns0:Unit>
+</ns0:Area>
+<ns0:Encumbrance>
+<ns0:Type>022004000000</ns0:Type>
+<ns0:Duration>
+<ns0:Started>2020-02-05</ns0:Started>
+</ns0:Duration>
+<ns0:Document>
+<ns2:CodeDocument>558257010000</ns2:CodeDocument>
+<ns2:Name>&#1042;&#1086;&#1076;&#1085;&#1099;&#1081; &#1082;&#1086;&#1076;&#1077;&#1082;&#1089;</ns2:Name>
+<ns2:Number>74-&#1060;&#1047;</ns2:Number>
+<ns2:Date>2006-06-03</ns2:Date>
+<ns2:IssueOrgan>&#1043;&#1086;&#1089;&#1091;&#1076;&#1072;&#1088;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1072;&#1103; &#1044;&#1091;&#1084;&#1072; &#1056;&#1060;</ns2:IssueOrgan>
+</ns0:Document>
+</ns0:Encumbrance>
+<ns0:EntitySpatial EntSys="ID1">
+<ns3:SpatialElement>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="94">
+<ns3:Ordinate X="611713.6" Y="2256769.96" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="95">
+<ns3:Ordinate X="611705.02" Y="2256775.42" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="21">
+<ns3:Ordinate X="611564.96" Y="2256798.42" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="22">
+<ns3:Ordinate X="611554.38" Y="2256801.83" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="23">
+<ns3:Ordinate X="611549.44" Y="2256802.06" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="24">
+<ns3:Ordinate X="611545.4" Y="2256802.18" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="25">
+<ns3:Ordinate X="611537.31" Y="2256802.42" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="96">
+<ns3:Ordinate X="611507.33" Y="2256807.99" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="97">
+<ns3:Ordinate X="611502.48" Y="2256808.26" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="98">
+<ns3:Ordinate X="611489.15" Y="2256807.31" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="32">
+<ns3:Ordinate X="611536.73" Y="2256798.46" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="33">
+<ns3:Ordinate X="611544.74" Y="2256798.2" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="34">
+<ns3:Ordinate X="611548.77" Y="2256798.08" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="35">
+<ns3:Ordinate X="611553.42" Y="2256797.94" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="36">
+<ns3:Ordinate X="611563.88" Y="2256794.56" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="94">
+<ns3:Ordinate X="611713.6" Y="2256769.96" OrdNmb="1" />
+</ns3:SpelementUnit>
+</ns3:SpatialElement>
+<ns3:SpatialElement>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="99">
+<ns3:Ordinate X="612431.68" Y="2256653.06" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="100">
+<ns3:Ordinate X="612385.94" Y="2256658.93" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="101">
+<ns3:Ordinate X="612381.13" Y="2256655.52" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="102">
+<ns3:Ordinate X="612431.5" Y="2256649.03" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="99">
+<ns3:Ordinate X="612431.68" Y="2256653.06" OrdNmb="1" />
+</ns3:SpelementUnit>
+</ns3:SpatialElement>
+</ns0:EntitySpatial>
+</ns0:SubParcel>
+<ns0:SubParcel NumberRecord="4" Full="0" State="06">
+<ns0:Area>
+<ns0:Area>1053</ns0:Area>
+<ns0:Unit>055</ns0:Unit>
+</ns0:Area>
+<ns0:Encumbrance>
+<ns0:Type>022004000000</ns0:Type>
+<ns0:Duration>
+<ns0:Started>2020-03-13</ns0:Started>
+</ns0:Duration>
+<ns0:Document>
+<ns2:CodeDocument>558257010000</ns2:CodeDocument>
+<ns2:Name>&#1042;&#1086;&#1076;&#1085;&#1099;&#1081; &#1082;&#1086;&#1076;&#1077;&#1082;&#1089;</ns2:Name>
+<ns2:Number>74-&#1060;&#1047;</ns2:Number>
+<ns2:Date>2006-06-03</ns2:Date>
+<ns2:IssueOrgan>&#1043;&#1086;&#1089;&#1091;&#1076;&#1072;&#1088;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1072;&#1103; &#1044;&#1091;&#1084;&#1072; &#1056;&#1060;</ns2:IssueOrgan>
+</ns0:Document>
+</ns0:Encumbrance>
+<ns0:EntitySpatial EntSys="ID1">
+<ns3:SpatialElement>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="94">
+<ns3:Ordinate X="611713.6" Y="2256769.96" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="95">
+<ns3:Ordinate X="611705.02" Y="2256775.42" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="21">
+<ns3:Ordinate X="611564.96" Y="2256798.42" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="22">
+<ns3:Ordinate X="611554.38" Y="2256801.83" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="23">
+<ns3:Ordinate X="611549.44" Y="2256802.06" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="24">
+<ns3:Ordinate X="611545.4" Y="2256802.18" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="25">
+<ns3:Ordinate X="611537.31" Y="2256802.42" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="96">
+<ns3:Ordinate X="611507.33" Y="2256807.99" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="97">
+<ns3:Ordinate X="611502.48" Y="2256808.26" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="98">
+<ns3:Ordinate X="611489.15" Y="2256807.31" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="32">
+<ns3:Ordinate X="611536.73" Y="2256798.46" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="33">
+<ns3:Ordinate X="611544.74" Y="2256798.2" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="34">
+<ns3:Ordinate X="611548.77" Y="2256798.08" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="35">
+<ns3:Ordinate X="611553.42" Y="2256797.94" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="36">
+<ns3:Ordinate X="611563.88" Y="2256794.56" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="94">
+<ns3:Ordinate X="611713.6" Y="2256769.96" OrdNmb="1" />
+</ns3:SpelementUnit>
+</ns3:SpatialElement>
+<ns3:SpatialElement>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="99">
+<ns3:Ordinate X="612431.68" Y="2256653.06" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="100">
+<ns3:Ordinate X="612385.94" Y="2256658.93" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="101">
+<ns3:Ordinate X="612381.13" Y="2256655.52" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="102">
+<ns3:Ordinate X="612431.5" Y="2256649.03" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="99">
+<ns3:Ordinate X="612431.68" Y="2256653.06" OrdNmb="1" />
+</ns3:SpelementUnit>
+</ns3:SpatialElement>
+</ns0:EntitySpatial>
+</ns0:SubParcel>
+<ns0:SubParcel NumberRecord="5" Full="0" State="06">
+<ns0:Area>
+<ns0:Area>0</ns0:Area>
+<ns0:Unit>055</ns0:Unit>
+</ns0:Area>
+<ns0:Encumbrance>
+<ns0:Type>022004000000</ns0:Type>
+<ns0:Duration>
+<ns0:Started>2020-12-15</ns0:Started>
+</ns0:Duration>
+<ns0:Document>
+<ns2:CodeDocument>008002099000</ns2:CodeDocument>
+<ns2:Name>&#1055;&#1086;&#1089;&#1090;&#1072;&#1085;&#1086;&#1074;&#1083;&#1077;&#1085;&#1080;&#1077; &#1055;&#1088;&#1072;&#1074;&#1080;&#1090;&#1077;&#1083;&#1100;&#1089;&#1090;&#1074;&#1072; &#1056;&#1086;&#1089;&#1089;&#1080;&#1081;&#1089;&#1082;&#1086;&#1081; &#1060;&#1077;&#1076;&#1077;&#1088;&#1072;&#1094;&#1080;&#1080;</ns2:Name>
+<ns2:Number>160</ns2:Number>
+<ns2:Date>2009-02-24</ns2:Date>
+<ns2:IssueOrgan>&#1055;&#1088;&#1072;&#1074;&#1080;&#1090;&#1077;&#1083;&#1100;&#1089;&#1090;&#1074;&#1086; &#1056;&#1086;&#1089;&#1089;&#1080;&#1081;&#1089;&#1082;&#1086;&#1081; &#1060;&#1077;&#1076;&#1077;&#1088;&#1072;&#1094;&#1080;&#1080;</ns2:IssueOrgan>
+</ns0:Document>
+</ns0:Encumbrance>
+<ns0:EntitySpatial EntSys="ID1">
+<ns3:SpatialElement>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="103">
+<ns3:Ordinate X="612014.09" Y="2256727.63" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="104">
+<ns3:Ordinate X="612010.11" Y="2256728.06" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="105">
+<ns3:Ordinate X="612009.8" Y="2256726.33" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="106">
+<ns3:Ordinate X="612009.51" Y="2256724.11" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="107">
+<ns3:Ordinate X="612013.4" Y="2256723.69" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="103">
+<ns3:Ordinate X="612014.09" Y="2256727.63" OrdNmb="1" />
+</ns3:SpelementUnit>
+</ns3:SpatialElement>
+</ns0:EntitySpatial>
+</ns0:SubParcel>
+<ns0:SubParcel NumberRecord="6" Full="0" State="06">
+<ns0:Area>
+<ns0:Area>32</ns0:Area>
+<ns0:Unit>055</ns0:Unit>
+</ns0:Area>
+<ns0:Encumbrance>
+<ns0:Type>022004000000</ns0:Type>
+<ns0:Duration>
+<ns0:Started>2020-12-21</ns0:Started>
+</ns0:Duration>
+<ns0:Document>
+<ns2:CodeDocument>558257030000</ns2:CodeDocument>
+<ns2:Name>&#1055;&#1086;&#1089;&#1090;&#1072;&#1085;&#1086;&#1074;&#1083;&#1077;&#1085;&#1080;&#1077; &#1055;&#1088;&#1072;&#1074;&#1080;&#1090;&#1077;&#1083;&#1100;&#1089;&#1090;&#1074;&#1072; &#1056;&#1086;&#1089;&#1089;&#1080;&#1081;&#1089;&#1082;&#1086;&#1081; &#1060;&#1077;&#1076;&#1077;&#1088;&#1072;&#1094;&#1080;&#1080;</ns2:Name>
+<ns2:Number>160</ns2:Number>
+<ns2:Date>2009-02-24</ns2:Date>
+<ns2:IssueOrgan>&#1055;&#1088;&#1072;&#1074;&#1080;&#1090;&#1077;&#1083;&#1100;&#1089;&#1090;&#1074;&#1086; &#1056;&#1086;&#1089;&#1089;&#1080;&#1081;&#1089;&#1082;&#1086;&#1081; &#1060;&#1077;&#1076;&#1077;&#1088;&#1072;&#1094;&#1080;&#1080;</ns2:IssueOrgan>
+</ns0:Document>
+</ns0:Encumbrance>
+<ns0:EntitySpatial EntSys="ID1">
+<ns3:SpatialElement>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="108">
+<ns3:Ordinate X="612367.2" Y="2256661.13" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="109">
+<ns3:Ordinate X="612363.2" Y="2256661.37" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="110">
+<ns3:Ordinate X="612362.57" Y="2256657.4" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="111">
+<ns3:Ordinate X="612366.57" Y="2256657.17" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="108">
+<ns3:Ordinate X="612367.2" Y="2256661.13" OrdNmb="1" />
+</ns3:SpelementUnit>
+</ns3:SpatialElement>
+<ns3:SpatialElement>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="112">
+<ns3:Ordinate X="612430.9" Y="2256653.16" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="113">
+<ns3:Ordinate X="612426.93" Y="2256653.67" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="114">
+<ns3:Ordinate X="612426.62" Y="2256649.66" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="115">
+<ns3:Ordinate X="612430.58" Y="2256649.15" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="112">
+<ns3:Ordinate X="612430.9" Y="2256653.16" OrdNmb="1" />
+</ns3:SpelementUnit>
+</ns3:SpatialElement>
+</ns0:EntitySpatial>
+</ns0:SubParcel>
+<ns0:SubParcel NumberRecord="7" Full="0" State="06">
+<ns0:Area>
+<ns0:Area>0</ns0:Area>
+<ns0:Unit>055</ns0:Unit>
+</ns0:Area>
+<ns0:Encumbrance>
+<ns0:Type>022004000000</ns0:Type>
+<ns0:Duration>
+<ns0:Started>2021-01-21</ns0:Started>
+</ns0:Duration>
+<ns0:Document>
+<ns2:CodeDocument>008002099000</ns2:CodeDocument>
+<ns2:Name>&#1055;&#1086;&#1089;&#1090;&#1072;&#1085;&#1086;&#1074;&#1083;&#1077;&#1085;&#1080;&#1077;</ns2:Name>
+<ns2:Number>160</ns2:Number>
+<ns2:Date>2009-02-24</ns2:Date>
+</ns0:Document>
+</ns0:Encumbrance>
+<ns0:EntitySpatial EntSys="ID1">
+<ns3:SpatialElement>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="116">
+<ns3:Ordinate X="611399.84" Y="2256813.24" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="117">
+<ns3:Ordinate X="611401.79" Y="2256812.97" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="118">
+<ns3:Ordinate X="611413.31" Y="2256812.42" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="116">
+<ns3:Ordinate X="611399.84" Y="2256813.24" OrdNmb="1" />
+</ns3:SpelementUnit>
+</ns3:SpatialElement>
+<ns3:SpatialElement>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="119">
+<ns3:Ordinate X="611369.67" Y="2256820.75" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="120">
+<ns3:Ordinate X="611365.21" Y="2256821.13" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="121">
+<ns3:Ordinate X="611362.88" Y="2256817.3" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="122">
+<ns3:Ordinate X="611367.33" Y="2256816.92" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="119">
+<ns3:Ordinate X="611369.67" Y="2256820.75" OrdNmb="1" />
+</ns3:SpelementUnit>
+</ns3:SpatialElement>
+<ns3:SpatialElement>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="123">
+<ns3:Ordinate X="611230.22" Y="2256824.95" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="77">
+<ns3:Ordinate X="611231.62" Y="2256824.23" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="78">
+<ns3:Ordinate X="611258.66" Y="2256822.77" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="79">
+<ns3:Ordinate X="611262.67" Y="2256822.58" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="80">
+<ns3:Ordinate X="611266.3" Y="2256822.41" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="124">
+<ns3:Ordinate X="611275.17" Y="2256822.22" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="125">
+<ns3:Ordinate X="611267.7" Y="2256822.82" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="126">
+<ns3:Ordinate X="611239.99" Y="2256823.86" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="123">
+<ns3:Ordinate X="611230.22" Y="2256824.95" OrdNmb="1" />
+</ns3:SpelementUnit>
+</ns3:SpatialElement>
+</ns0:EntitySpatial>
+</ns0:SubParcel>
+<ns0:SubParcel NumberRecord="8" Full="0" State="06">
+<ns0:Area>
+<ns0:Area>61</ns0:Area>
+<ns0:Unit>055</ns0:Unit>
+</ns0:Area>
+<ns0:Encumbrance>
+<ns0:Type>022004000000</ns0:Type>
+<ns0:Duration>
+<ns0:Started>2022-04-28</ns0:Started>
+</ns0:Duration>
+<ns0:Document>
+<ns2:CodeDocument>008002099000</ns2:CodeDocument>
+<ns2:Name>&#1055;&#1086;&#1089;&#1090;&#1072;&#1085;&#1086;&#1074;&#1083;&#1077;&#1085;&#1080;&#1077;</ns2:Name>
+<ns2:Number>160</ns2:Number>
+<ns2:Date>2009-02-24</ns2:Date>
+<ns2:IssueOrgan>&#1055;&#1088;&#1072;&#1074;&#1080;&#1090;&#1077;&#1083;&#1100;&#1089;&#1090;&#1074;&#1086; &#1056;&#1086;&#1089;&#1089;&#1080;&#1081;&#1089;&#1082;&#1086;&#1081; &#1060;&#1077;&#1076;&#1077;&#1088;&#1072;&#1094;&#1080;&#1080;</ns2:IssueOrgan>
+</ns0:Document>
+</ns0:Encumbrance>
+<ns0:EntitySpatial EntSys="ID1">
+<ns3:SpatialElement>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="64">
+<ns3:Ordinate X="610862.63" Y="2256825.65" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="65">
+<ns3:Ordinate X="610867.15" Y="2256825.83" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="127">
+<ns3:Ordinate X="610871.73" Y="2256826.07" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="128">
+<ns3:Ordinate X="610872.24" Y="2256826.21" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="129">
+<ns3:Ordinate X="610875.9" Y="2256829.87" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="130">
+<ns3:Ordinate X="610876.01" Y="2256830.26" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="55">
+<ns3:Ordinate X="610874.63" Y="2256830.21" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="56">
+<ns3:Ordinate X="610866.98" Y="2256829.83" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="131">
+<ns3:Ordinate X="610856.86" Y="2256829.43" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="132">
+<ns3:Ordinate X="610860.12" Y="2256826.17" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="133">
+<ns3:Ordinate X="610862.14" Y="2256825.63" OrdNmb="1" />
+</ns3:SpelementUnit>
+<ns3:SpelementUnit TypeUnit="&#1058;&#1086;&#1095;&#1082;&#1072;" SuNmb="64">
+<ns3:Ordinate X="610862.63" Y="2256825.65" OrdNmb="1" />
+</ns3:SpelementUnit>
+</ns3:SpatialElement>
+</ns0:EntitySpatial>
+</ns0:SubParcel>
+</ns0:SubParcels>
+<ns0:CadastralCost Value="1" Unit="383" />
+<ns0:SpecialNote>&#1043;&#1088;&#1072;&#1085;&#1080;&#1094;&#1072; &#1079;&#1077;&#1084;&#1077;&#1083;&#1100;&#1085;&#1086;&#1075;&#1086; &#1091;&#1095;&#1072;&#1089;&#1090;&#1082;&#1072; &#1085;&#1077; &#1091;&#1089;&#1090;&#1072;&#1085;&#1086;&#1074;&#1083;&#1077;&#1085;&#1072; &#1074; &#1089;&#1086;&#1086;&#1090;&#1074;&#1077;&#1090;&#1089;&#1090;&#1074;&#1080;&#1080; &#1089; &#1090;&#1088;&#1077;&#1073;&#1086;&#1074;&#1072;&#1085;&#1080;&#1103;&#1084;&#1080; &#1079;&#1077;&#1084;&#1077;&#1083;&#1100;&#1085;&#1086;&#1075;&#1086; &#1079;&#1072;&#1082;&#1086;&#1085;&#1086;&#1076;&#1072;&#1090;&#1077;&#1083;&#1100;&#1089;&#1090;&#1074;&#1072;. &#1057;&#1074;&#1077;&#1076;&#1077;&#1085;&#1080;&#1103; &#1086; &#1074;&#1080;&#1076;&#1072;&#1093; &#1088;&#1072;&#1079;&#1088;&#1077;&#1096;&#1077;&#1085;&#1085;&#1086;&#1075;&#1086; &#1080;&#1089;&#1087;&#1086;&#1083;&#1100;&#1079;&#1086;&#1074;&#1072;&#1085;&#1080;&#1080; &#1080;&#1084;&#1077;&#1102;&#1090; &#1089;&#1090;&#1072;&#1090;&#1091;&#1089; &#171;&#1040;&#1082;&#1090;&#1091;&#1072;&#1083;&#1100;&#1085;&#1099;&#1077; &#1085;&#1077;&#1079;&#1072;&#1089;&#1074;&#1080;&#1076;&#1077;&#1090;&#1077;&#1083;&#1100;&#1089;&#1090;&#1074;&#1086;&#1074;&#1072;&#1085;&#1085;&#1099;&#1077;&#187;. &#1055;&#1088;&#1072;&#1074;&#1086; (&#1086;&#1075;&#1088;&#1072;&#1085;&#1080;&#1095;&#1077;&#1085;&#1080;&#1077; &#1087;&#1088;&#1072;&#1074;&#1072;, &#1086;&#1073;&#1088;&#1077;&#1084;&#1077;&#1085;&#1077;&#1085;&#1080;&#1077; &#1086;&#1073;&#1098;&#1077;&#1082;&#1090;&#1072; &#1085;&#1077;&#1076;&#1074;&#1080;&#1078;&#1080;&#1084;&#1086;&#1089;&#1090;&#1080;) &#1079;&#1072;&#1088;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1086; &#1085;&#1072; &#1076;&#1072;&#1085;&#1085;&#1099;&#1081; &#1086;&#1073;&#1098;&#1077;&#1082;&#1090; &#1085;&#1077;&#1076;&#1074;&#1080;&#1078;&#1080;&#1084;&#1086;&#1089;&#1090;&#1080; &#1089; &#1074;&#1080;&#1076;&#1072;&#1084;&#1080; &#1088;&#1072;&#1079;&#1088;&#1077;&#1096;&#1077;&#1085;&#1085;&#1086;&#1075;&#1086; &#1080;&#1089;&#1087;&#1086;&#1083;&#1100;&#1079;&#1086;&#1074;&#1072;&#1085;&#1080;&#1103; &#1086;&#1090;&#1089;&#1091;&#1090;&#1089;&#1090;&#1074;&#1091;&#1077;&#1090;.</ns0:SpecialNote>
+</ns0:Parcel>
+</ns0:Parcels>
+<ns0:CertificationDoc>
+<ns4:Organization>&#1060;&#1043;&#1048;&#1057; &#1045;&#1043;&#1056;&#1053;</ns4:Organization>
+<ns4:Date>2022-11-17</ns4:Date>
+<ns4:Number>99/2022/505766369</ns4:Number>
+</ns0:CertificationDoc>
+<ns0:Contractors>
+<ns0:Contractor>
+<ns0:FamilyName>&#1063;&#1091;&#1073;&#1072;&#1090;&#1086;&#1074;&#1072;</ns0:FamilyName>
+<ns0:FirstName>&#1045;&#1083;&#1077;&#1085;&#1072;</ns0:FirstName>
+<ns0:Patronymic>&#1057;&#1077;&#1088;&#1075;&#1077;&#1077;&#1074;&#1085;&#1072;</ns0:Patronymic>
+<ns0:NCertificate>61-13-905</ns0:NCertificate>
+</ns0:Contractor>
+</ns0:Contractors>
+<ns0:CoordSystems>
+<ns3:CoordSystem Name="&#1052;&#1057;&#1050;-61" CsId="ID0" />
+<ns3:CoordSystem Name="&#1052;&#1057;&#1050;-05" CsId="ID1" />
+</ns0:CoordSystems>
+<ns0:eDocument CodeType="112" Version="07" Scope="GKN">
+<ns0:Sender Kod="00.0.4.195" Name="&#1060;&#1043;&#1048;&#1057; &#1045;&#1043;&#1056;&#1053;" Region="99" Date_Upload="2022-11-17" Appointment="&#1043;&#1086;&#1089;&#1091;&#1076;&#1072;&#1088;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1099;&#1081; &#1088;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1072;&#1090;&#1086;&#1088;" />
+<ns0:Recipient Kod="00.0.4.111" Name="&#1058;&#1072;&#1088;&#1072;&#1090;&#1091;&#1093;&#1080;&#1085;&#1072; &#1052;&#1072;&#1088;&#1080;&#1085;&#1072; &#1040;&#1083;&#1077;&#1082;&#1089;&#1077;&#1077;&#1074;&#1085;&#1072;" />
+</ns0:eDocument>
+<ns0:ReestrExtract>
+<ns0:DeclarAttribute ID_KUVI="0" ExtractTypeCode="012000" ExtractTypeText="&#1042;&#1099;&#1087;&#1080;&#1089;&#1082;&#1072; &#1080;&#1079; &#1045;&#1076;&#1080;&#1085;&#1086;&#1075;&#1086; &#1075;&#1086;&#1089;&#1091;&#1076;&#1072;&#1088;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1075;&#1086; &#1088;&#1077;&#1077;&#1089;&#1090;&#1088;&#1072; &#1085;&#1077;&#1076;&#1074;&#1080;&#1078;&#1080;&#1084;&#1086;&#1089;&#1090;&#1080; &#1086;&#1073; &#1086;&#1073;&#1098;&#1077;&#1082;&#1090;&#1077; &#1085;&#1077;&#1076;&#1074;&#1080;&#1078;&#1080;&#1084;&#1086;&#1089;&#1090;&#1080;" ExtractNumber="99/2022/505766369" ExtractDate="17.11.2022" RequeryNumber="80-270674249" RequeryDate="12.11.2022" ExtractCount="1" NoticeCount="0" RefuseCount="0" Registrator="&#1060;&#1043;&#1048;&#1057; &#1045;&#1043;&#1056;&#1053;">
+<ns0:ReceivName>&#1058;&#1072;&#1088;&#1072;&#1090;&#1091;&#1093;&#1080;&#1085;&#1072; &#1052;&#1072;&#1088;&#1080;&#1085;&#1072; &#1040;&#1083;&#1077;&#1082;&#1089;&#1077;&#1077;&#1074;&#1085;&#1072;</ns0:ReceivName>
+<ns0:ReceivAdress>&#1085;&#1077; &#1091;&#1082;&#1072;&#1079;&#1072;&#1085;</ns0:ReceivAdress>
+</ns0:DeclarAttribute>
+<ns0:ExtractObjectRight>
+<ns0:HeadContent>
+<ns0:ID_REC_KUVI>0</ns0:ID_REC_KUVI>
+<ns0:Title>&#1060;&#1045;&#1044;&#1045;&#1056;&#1040;&#1051;&#1068;&#1053;&#1040;&#1071; &#1057;&#1051;&#1059;&#1046;&#1041;&#1040; &#1043;&#1054;&#1057;&#1059;&#1044;&#1040;&#1056;&#1057;&#1058;&#1042;&#1045;&#1053;&#1053;&#1054;&#1049; &#1056;&#1045;&#1043;&#1048;&#1057;&#1058;&#1056;&#1040;&#1062;&#1048;&#1048;, &#1050;&#1040;&#1044;&#1040;&#1057;&#1058;&#1056;&#1040; &#1048; &#1050;&#1040;&#1056;&#1058;&#1054;&#1043;&#1056;&#1040;&#1060;&#1048;&#1048;</ns0:Title>
+<ns0:DeptName>&#1060;&#1043;&#1048;&#1057; &#1045;&#1043;&#1056;&#1053;</ns0:DeptName>
+<ns0:ExtractTitle>&#1042;&#1099;&#1087;&#1080;&#1089;&#1082;&#1072; &#1080;&#1079; &#1045;&#1076;&#1080;&#1085;&#1086;&#1075;&#1086; &#1075;&#1086;&#1089;&#1091;&#1076;&#1072;&#1088;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1075;&#1086; &#1088;&#1077;&#1077;&#1089;&#1090;&#1088;&#1072; &#1085;&#1077;&#1076;&#1074;&#1080;&#1078;&#1080;&#1084;&#1086;&#1089;&#1090;&#1080; &#1086;&#1073; &#1086;&#1073;&#1098;&#1077;&#1082;&#1090;&#1077; &#1085;&#1077;&#1076;&#1074;&#1080;&#1078;&#1080;&#1084;&#1086;&#1089;&#1090;&#1080;</ns0:ExtractTitle>
+<ns0:Content>&#1053;&#1072; &#1086;&#1089;&#1085;&#1086;&#1074;&#1072;&#1085;&#1080;&#1080; &#1079;&#1072;&#1087;&#1088;&#1086;&#1089;&#1072; &#1086;&#1090; 12.11.2022 &#1075;., &#1087;&#1086;&#1089;&#1090;&#1091;&#1087;&#1080;&#1074;&#1096;&#1077;&#1075;&#1086; &#1085;&#1072; &#1088;&#1072;&#1089;&#1089;&#1084;&#1086;&#1090;&#1088;&#1077;&#1085;&#1080;&#1077; 17.11.2022 &#1075;., &#1089;&#1086;&#1086;&#1073;&#1097;&#1072;&#1077;&#1084;, &#1095;&#1090;&#1086; &#1089;&#1086;&#1075;&#1083;&#1072;&#1089;&#1085;&#1086; &#1079;&#1072;&#1087;&#1080;&#1089;&#1103;&#1084; &#1045;&#1076;&#1080;&#1085;&#1086;&#1075;&#1086; &#1075;&#1086;&#1089;&#1091;&#1076;&#1072;&#1088;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1075;&#1086; &#1088;&#1077;&#1077;&#1089;&#1090;&#1088;&#1072; &#1085;&#1077;&#1076;&#1074;&#1080;&#1078;&#1080;&#1084;&#1086;&#1089;&#1090;&#1080;:</ns0:Content>
+</ns0:HeadContent>
+<ns0:ExtractObject>
+<ns0:ObjectRight>
+<ns0:Right RightNumber="1">
+<ns0:Owner>
+<ns0:ID_Subject>2803259139861</ns0:ID_Subject>
+<ns0:Governance>
+<ns0:Code_SP>007001000000</ns0:Code_SP>
+<ns0:Content>&#1052;&#1091;&#1085;&#1080;&#1094;&#1080;&#1087;&#1072;&#1083;&#1100;&#1085;&#1086;&#1077; &#1086;&#1073;&#1088;&#1072;&#1079;&#1086;&#1074;&#1072;&#1085;&#1080;&#1077; "&#1052;&#1080;&#1083;&#1083;&#1077;&#1088;&#1086;&#1074;&#1089;&#1082;&#1086;&#1077; &#1075;&#1086;&#1088;&#1086;&#1076;&#1089;&#1082;&#1086;&#1077; &#1087;&#1086;&#1089;&#1077;&#1083;&#1077;&#1085;&#1080;&#1077;"</ns0:Content>
+<ns0:Name>&#1052;&#1091;&#1085;&#1080;&#1094;&#1080;&#1087;&#1072;&#1083;&#1100;&#1085;&#1086;&#1077; &#1086;&#1073;&#1088;&#1072;&#1079;&#1086;&#1074;&#1072;&#1085;&#1080;&#1077; "&#1052;&#1080;&#1083;&#1083;&#1077;&#1088;&#1086;&#1074;&#1089;&#1082;&#1086;&#1077; &#1075;&#1086;&#1088;&#1086;&#1076;&#1089;&#1082;&#1086;&#1077; &#1087;&#1086;&#1089;&#1077;&#1083;&#1077;&#1085;&#1080;&#1077;"</ns0:Name>
+</ns0:Governance>
+</ns0:Owner>
+<ns0:Registration>
+<ns0:ID_Record>2803259139361</ns0:ID_Record>
+<ns0:RegNumber>61-61-26/022/2014-974</ns0:RegNumber>
+<ns0:Type>001001000000</ns0:Type>
+<ns0:Name>&#1057;&#1086;&#1073;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1089;&#1090;&#1100;, &#8470; 61-61-26/022/2014-974 &#1086;&#1090; 10.06.2014</ns0:Name>
+<ns0:RegDate>10.06.2014</ns0:RegDate>
+</ns0:Registration>
+<ns0:NoEncumbrance>&#1085;&#1077; &#1079;&#1072;&#1088;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1086;</ns0:NoEncumbrance>
+</ns0:Right>
+<ns0:Right RightNumber="2">
+<ns0:Owner>
+<ns0:ID_Subject>2803259139061</ns0:ID_Subject>
+<ns0:Organization>
+<ns0:Code_SP>007002000000</ns0:Code_SP>
+<ns0:Content>&#1052;&#1091;&#1085;&#1080;&#1094;&#1080;&#1087;&#1072;&#1083;&#1100;&#1085;&#1086;&#1077; &#1082;&#1072;&#1079;&#1077;&#1085;&#1085;&#1086;&#1077; &#1091;&#1095;&#1088;&#1077;&#1078;&#1076;&#1077;&#1085;&#1080;&#1077; &#1052;&#1080;&#1083;&#1083;&#1077;&#1088;&#1086;&#1074;&#1089;&#1082;&#1086;&#1075;&#1086; &#1075;&#1086;&#1088;&#1086;&#1076;&#1089;&#1082;&#1086;&#1075;&#1086; &#1087;&#1086;&#1089;&#1077;&#1083;&#1077;&#1085;&#1080;&#1103; "&#1041;&#1083;&#1072;&#1075;&#1086;&#1091;&#1089;&#1090;&#1088;&#1086;&#1081;&#1089;&#1090;&#1074;&#1086;", &#1048;&#1053;&#1053;: 6149019208</ns0:Content>
+<ns0:Name>&#1052;&#1091;&#1085;&#1080;&#1094;&#1080;&#1087;&#1072;&#1083;&#1100;&#1085;&#1086;&#1077; &#1082;&#1072;&#1079;&#1077;&#1085;&#1085;&#1086;&#1077; &#1091;&#1095;&#1088;&#1077;&#1078;&#1076;&#1077;&#1085;&#1080;&#1077; &#1052;&#1080;&#1083;&#1083;&#1077;&#1088;&#1086;&#1074;&#1089;&#1082;&#1086;&#1075;&#1086; &#1075;&#1086;&#1088;&#1086;&#1076;&#1089;&#1082;&#1086;&#1075;&#1086; &#1087;&#1086;&#1089;&#1077;&#1083;&#1077;&#1085;&#1080;&#1103; "&#1041;&#1083;&#1072;&#1075;&#1086;&#1091;&#1089;&#1090;&#1088;&#1086;&#1081;&#1089;&#1090;&#1074;&#1086;"</ns0:Name>
+<ns0:INN>6149019208</ns0:INN>
+</ns0:Organization>
+</ns0:Owner>
+<ns0:Registration>
+<ns0:ID_Record>2803259138761</ns0:ID_Record>
+<ns0:RegNumber>61:54:0000000:7644-61/043/2020-1</ns0:RegNumber>
+<ns0:Type>001007000000</ns0:Type>
+<ns0:Name>&#1055;&#1086;&#1089;&#1090;&#1086;&#1103;&#1085;&#1085;&#1086;&#1077; (&#1073;&#1077;&#1089;&#1089;&#1088;&#1086;&#1095;&#1085;&#1086;&#1077;) &#1087;&#1086;&#1083;&#1100;&#1079;&#1086;&#1074;&#1072;&#1085;&#1080;&#1077;, &#8470; 61:54:0000000:7644-61/043/2020-1 &#1086;&#1090; 07.07.2020</ns0:Name>
+<ns0:RegDate>07.07.2020</ns0:RegDate>
+</ns0:Registration>
+<ns0:NoEncumbrance>&#1085;&#1077; &#1079;&#1072;&#1088;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1086;</ns0:NoEncumbrance>
+</ns0:Right>
+<ns0:NoShareHolding>&#1085;&#1077; &#1079;&#1072;&#1088;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1086;</ns0:NoShareHolding>
+</ns0:ObjectRight>
+<ns0:RightAssert>&#1076;&#1072;&#1085;&#1085;&#1099;&#1077; &#1086;&#1090;&#1089;&#1091;&#1090;&#1089;&#1090;&#1074;&#1091;&#1102;&#1090;</ns0:RightAssert>
+<ns0:RightClaim>&#1076;&#1072;&#1085;&#1085;&#1099;&#1077; &#1086;&#1090;&#1089;&#1091;&#1090;&#1089;&#1090;&#1074;&#1091;&#1102;&#1090;</ns0:RightClaim>
+<ns0:RightAgainst>&#1076;&#1072;&#1085;&#1085;&#1099;&#1077; &#1086;&#1090;&#1089;&#1091;&#1090;&#1089;&#1090;&#1074;&#1091;&#1102;&#1090;</ns0:RightAgainst>
+<ns0:RightSteal>&#1076;&#1072;&#1085;&#1085;&#1099;&#1077; &#1086;&#1090;&#1089;&#1091;&#1090;&#1089;&#1090;&#1074;&#1091;&#1102;&#1090;</ns0:RightSteal>
+<ns0:WithoutThirdParty>&#1076;&#1072;&#1085;&#1085;&#1099;&#1077; &#1086;&#1090;&#1089;&#1091;&#1090;&#1089;&#1090;&#1074;&#1091;&#1102;&#1090;</ns0:WithoutThirdParty>
+<ns0:InabilityRegWithoutOwner />
+<ns0:InabilityRegZU />
+</ns0:ExtractObject>
+<ns0:InfoENK />
+<ns0:InfoPIK />
+<ns0:FootContent>
+<ns0:Recipient>&#1058;&#1072;&#1088;&#1072;&#1090;&#1091;&#1093;&#1080;&#1085;&#1072; &#1052;&#1072;&#1088;&#1080;&#1085;&#1072; &#1040;&#1083;&#1077;&#1082;&#1089;&#1077;&#1077;&#1074;&#1085;&#1072;</ns0:Recipient>
+<ns0:ExtractDate>17.11.2022</ns0:ExtractDate>
+<ns0:Content />
+</ns0:FootContent>
+</ns0:ExtractObjectRight>
+</ns0:ReestrExtract>
+</ns0:KVZU>
