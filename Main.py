@@ -5,8 +5,6 @@ import os
 import os.path
 import re
 from PyPDF2 import PdfFileReader
-from pdfrw import PdfReader, PdfWriter
-
 
 def GetCadastralNumber(filename):
     with open(filename, "rb") as filehandle:
